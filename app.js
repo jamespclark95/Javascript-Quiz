@@ -10,40 +10,14 @@ let instructions = document.getElementById("instructions")
 let secondsLeft = document.getElementById("secondsLeft")
 
 // Array of questions and answer sets
-let questions = [
-    {
-        question: 'What does NaN stand for?',
-        option1: 'Never Ask Names',
-        option2: 'Nod at Nanna',
-        option3: 'New and Neat',
-        option4: 'Not a Number',
-        answer: 4
-    },
-    {
-        question: 'What was JavaScript originally named?',
-        option1: 'CoffeeScript',
-        option2: 'CaramelScript',
-        option3: 'Java',
-        option4: 'Mocha',
-        answer: 4
-    },
-    {
-        question: 'How many items can an array hold?',
-        option1: 'One',
-        option2: 'Infinite',
-        option3: 'Thirty',
-        option4: '4.29 Billion',
-        answer: 4
-    },
-    {
-        question: 'Can you style a webpage with Javascript?',
-        option1: 'Nope',
-        option2: 'Only with CSS',
-        option3: 'Maybe',
-        option4: 'Of Course!',
-        answer: 4
-    }
-]
+let questions = ['What does NaN stand for?', 'What was JavaScript originally named?', 'How many items can an array hold?', 'Can you style a webpage with Javascript?' ]
+let answerSetOne = ['Never Ask Names', 'Nod at Nanna', 'New and Neat', 'Not a Number']
+let answerSetTwo = ['CoffeeScript', 'CaramelScript', 'Java', 'Mocha']
+let answerSetThree = ['One', 'Infinite', 'Thirty', '4.29 billion']
+let answerSetFour = ['Nope', 'Only with CSS', 'Maybe', 'Of Course!']
+
+qLength = questions.length
+
 
 // Declare Points & Number of question sets
 
@@ -70,11 +44,11 @@ function startQuiz () {
     instructions.setAttribute('style', 'display: none;')
 
     // Change text content for the questions and answers
-    questionDisplay.textContent = (questions[0].question)
-    answerOne.textContent = (questions[0].option1)
-    answerTwo.textContent = (questions[0].option2)
-    answerThree.textContent = (questions[0].option3)
-    answerFour.textContent = (questions[0].option4)
+    questionDisplay.textContent = (questions[0])
+    answerOne.textContent = (answerSetOne[0])
+    answerTwo.textContent = (answerSetOne[1])
+    answerThree.textContent = (answerSetOne[2])
+    answerFour.textContent = (answerSetOne[3])
   })
 
   // add 25 points if user chooses correct answer
@@ -85,13 +59,14 @@ function startQuiz () {
 
   document.querySelectorAll('.answer-output').forEach(item => {
     item.addEventListener('click', event => {
-        questionDisplay.textContent = (questions[1].question)
-        answerOne.textContent = (questions[1].option1)
-        answerTwo.textContent = (questions[1].option2)
-        answerThree.textContent = (questions[1].option3)
-        answerFour.textContent = (questions[1].option4)
+    questionDisplay.textContent = (questions[1])
+    answerOne.textContent = (answerSetTwo[0])
+    answerTwo.textContent = (answerSetTwo[1])
+    answerThree.textContent = (answerSetTwo[2])
+    answerFour.textContent = (answerSetTwo[3])
     })
   })
+
 
 
 }
