@@ -97,6 +97,6 @@ body {
     font-weight: 900;
     text-align: center;
     background: -webkit-linear-gradient(rgb(0, 26, 196), rgba(5,186,223,1));
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
