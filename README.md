@@ -23,6 +23,7 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
+```
 
 I wasn't able to create the highscore page working for this project.
 
