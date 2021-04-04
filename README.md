@@ -1,3 +1,4 @@
+<img width="1350" alt="Screen Shot 2021-04-03 at 9 45 25 PM" src="https://user-images.githubusercontent.com/79162497/113496349-cb4a1f00-94c6-11eb-8772-5714f4ad5360.png">
 # Javascript-Quiz
 This is a multiple choice quiz made from JS, HTML & CSS. 
 
@@ -26,4 +27,6 @@ THEN I can save my initials and my score
 
 I wasn't able to create the highscore page working for this project.
 
-![StartQuiz](https://github.com/jamespclark95/Javascript-Quiz/blob/master/Screen%20Shot%202021-04-03%20at%209.45.25%20PM.png)
+<img width="1350" alt="Screen Shot 2021-04-03 at 9 45 25 PM" src="https://user-images.githubusercontent.com/79162497/113496355-d56c1d80-94c6-11eb-9726-bce2b3273833.png">
+<img width="1351" alt="Screen Shot 2021-04-03 at 9 45 35 PM" src="https://user-images.githubusercontent.com/79162497/113496361-dbfa9500-94c6-11eb-9f3b-91888e54c07f.png">
+<img width="1351" alt="Screen Shot 2021-04-03 at 9 45 49 PM" src="https://user-images.githubusercontent.com/79162497/113496363-def58580-94c6-11eb-8f40-365d83b73a78.png">
