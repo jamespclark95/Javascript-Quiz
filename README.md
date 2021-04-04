@@ -26,8 +26,6 @@ THEN I can save my initials and my score
 
 I wasn't able to create the highscore page working for this project.
 
-<img width="1350" alt="Screen Shot 2021-04-03 at 9 45 25 PM" src="https://user-images.githubusercontent.com/79162497/113496355-d56c1d80-94c6-11eb-9726-bce2b3273833.png">
-
-<img width="1351" alt="Screen Shot 2021-04-03 at 9 45 35 PM" src="https://user-images.githubusercontent.com/79162497/113496361-dbfa9500-94c6-11eb-9f3b-91888e54c07f.png">
-
-<img width="1351" alt="Screen Shot 2021-04-03 at 9 45 49 PM" src="https://user-images.githubusercontent.com/79162497/113496363-def58580-94c6-11eb-8f40-365d83b73a78.png">
+<img width="1350" alt="Screen Shot 2021-04-03 at 9 45 25 PM" src="https://user-images.githubusercontent.com/79162497/113496380-04828f00-94c7-11eb-8e3c-0dd16567ece1.png">
+<img width="1351" alt="Screen Shot 2021-04-03 at 9 45 35 PM" src="https://user-images.githubusercontent.com/79162497/113496382-05b3bc00-94c7-11eb-9973-f0ee3f4fd209.png">
+<img width="1351" alt="Screen Shot 2021-04-03 at 9 45 49 PM" src="https://user-images.githubusercontent.com/79162497/113496383-06e4e900-94c7-11eb-847e-26b3129dd471.png">
