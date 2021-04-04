@@ -25,3 +25,5 @@ WHEN the game is over
 THEN I can save my initials and my score
 
 I wasn't able to create the highscore page working for this project.
+
+![StartQuiz](https://github.com/jamespclark95/Javascript-Quiz/blob/master/Screen%20Shot%202021-04-03%20at%209.45.25%20PM.png)
